@@ -1,0 +1,9 @@
+1. A file that contains all answers and their hints
+2. read each answer and their hints
+3. puts each group together
+4. select difficulty
+5. randomizes the answers based on difficulty
+6. when typing for hint it does not count towards answer tries
+7. if wrong it tells answer and game over, if right you gain 
+    a point and you can play again
+
