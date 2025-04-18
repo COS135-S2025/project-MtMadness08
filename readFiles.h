@@ -20,15 +20,9 @@ typedef struct Pokemon{
 } Pokemon;
 
 // TODO: Create a function to initialize a BookShelf struct.
-BookShelf* createBookShelf(char leter);
+Pokemon* question(char NatDex_Number, char Hint1, char Hint2, char Hint3, char Hint4, char Hint5, char Answer);
 
 // TODO: Create a function to free a BookShelf struct (include freeing the books in the bookshelf)
-void freeBookShelf(BookShelf* aBookShelf);
-
-// TODO: Create a function to add a book to a bookshelf.
-// If the BookShelf is full, double the size of the bookshelf first.
-void addBook(Book* Book, BookShelf* Bookshelf);
-
-
+void freePokemon(Pokemon* aQuestion);
 
 #endif
