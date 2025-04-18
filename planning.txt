@@ -7,3 +7,14 @@
 7. if wrong it tells answer and game over, if right you gain 
     a point and you can play again
 
+
+Necessary parts:
+malloc to create a list of structs
+makefile *check (will need eventually)
+using a memory address location of a pointer to assign memory at that location
+looping through an array
+freeing memory
+reading/writing files *check
+github repository *check
+switch statement *check
+something not taught in class
