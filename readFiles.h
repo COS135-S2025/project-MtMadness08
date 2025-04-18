@@ -4,8 +4,6 @@
 Header file for all difficulty structs
 */
 
-#define HINTS_REMAIN 5
-
 // Bookshelf struct to define the letter of the bookshelf, the amount of books, and how many it can hold
 // Readfile to define the number of the pokemon and its hints
 typedef struct Pokemon{

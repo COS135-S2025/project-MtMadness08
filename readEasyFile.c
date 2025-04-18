@@ -6,3 +6,5 @@
 #include <ctype.h>
 
 #include readFiles.h
+
+Pokemon* question()
