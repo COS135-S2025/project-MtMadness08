@@ -12,7 +12,7 @@ Necessary parts:
 malloc to create a list of structs
 makefile *check (will need eventually)
 using a memory address location of a pointer to assign memory at that location
-looping through an array
+looping through an array *check
 freeing memory
 reading/writing files *check
 github repository *check
