@@ -7,16 +7,13 @@
 
 int main(){
     FILE* pokemon = fopen("EasyFile.txt","r");
-    
-    char buffer[1024];
 
-    char *Seven[50];
-
-    char **point = Seven;
+    char Seven[7][250];
 
     //Print off the Pokedex Number trimmed
 
     for (int i = 0; i<7; i++){
+        char buffer[1024];
         if(fgets(buffer,sizeof(buffer),pokemon)!=NULL){
             char *ptr = buffer + strlen(buffer) - 1;
             //Trim Buffer
@@ -25,13 +22,11 @@ int main(){
             ptr = buffer;
             while(isspace(*ptr)) ptr++;
             }
-            
-            point[i]=buffer;
+            strcpy(Seven[i],buffer);
         }
 
     for(int i = 0; i<7; i++){
         printf("%s\n",Seven[i]);}
-
     
        
     
