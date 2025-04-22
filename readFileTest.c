@@ -9,8 +9,8 @@ int main(){
     FILE* pokemon = fopen("EasyFile.txt","r");
     
     char buffer[1024];
-    
-    char *Seven[50] = {};
+
+    char *Seven[50];
 
     char **point = Seven;
 
@@ -23,13 +23,14 @@ int main(){
             while(isspace(*ptr)) ptr--;
             *(ptr+1)=0;
             ptr = buffer;
-            while(isspace(*ptr)) ptr++;}
+            while(isspace(*ptr)) ptr++;
+            }
             
-            //Inserts string into array
-            Seven[i]=buffer;}
+            point[i]=buffer;
+        }
 
     for(int i = 0; i<7; i++){
-        printf("%s",point[i]);}
+        printf("%s\n",Seven[i]);}
 
     
        
