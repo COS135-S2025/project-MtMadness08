@@ -26,11 +26,10 @@ int main(){
             while(isspace(*ptr)) ptr++;}
             
             //Inserts string into array
-            Seven[i]=buffer;
-            char **point = Seven;}
+            Seven[i]=buffer;}
 
-        for(int i = 0; i<7; i++){
-            printf("%s",point[i]);}
+    for(int i = 0; i<7; i++){
+        printf("%s",point[i]);}
 
     
        
