@@ -5,46 +5,17 @@
 
 int main(){
 
-    FILE* name = fopen("EasyFile.txt","r");
-
     int i = 0;
 
     char buffer[1024];
     char space[1024];
 
-    for (int i = 0; i<7; i++){
-        if(fgets(space,sizeof(space),name)!=NULL){
-            char *ptr1 = space + strlen(space) - 1;
-            //Trim Buffer
-            while(isspace(*ptr1)) ptr1--;
-            *(ptr1+1)=0;
-            ptr1 = space;
-            while(isspace(*ptr1)) ptr1++;}}
-    printf("%s",space);
-    fclose(name);
-
     ////////////////////
 
-    FILE* pokemon = fopen("EasyFile.txt","r");
+    FILE* pokemon = fopen("test.txt","w");
     
-    char *Seven[7];
-
-    char **point = Seven;
-
-    while (i < 7){
-        if(fgets(buffer,sizeof(buffer),pokemon)!=NULL){
-            char *ptr = buffer + strlen(buffer) - 1;
-            //Trim Buffer
-            while(isspace(*ptr)) ptr--;
-            *(ptr+1)=0;
-            ptr = buffer;
-            while(isspace(*ptr)) ptr++;
-            printf("%s",buffer);
-        }
-        char buffer[20];
-        printf("Type ""Hint"" for a Hint.\nType Pokemon name to guess.\n");
-        fgets(buffer,sizeof(buffer),stdin);
-    }
+    for(int i = 0; i<7; i++)
+        fprintf(pokemon," ");
     
     /*char *arr[3] = {"","",""};
     char **ptr = arr;

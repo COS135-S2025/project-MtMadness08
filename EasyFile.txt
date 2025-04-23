@@ -5,7 +5,6 @@ Hint 3: Has the ability Clear Body
 Hint 4: Does not evolve
 Hint 5: Legendary Pokemon
 Regice
-
 #0378
 Hint 1: Generation 3
 Hint 2: Ice type
@@ -13,3 +12,4 @@ Hint 3: Has the ability Clear Body
 Hint 4: Does not evolve
 Hint 5: Legendary Pokemon
 Regice
+

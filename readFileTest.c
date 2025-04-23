@@ -24,9 +24,19 @@ int main(){
             }
             strcpy(Seven[i],buffer);
         }
+    fclose(pokemon);
 
     for(int i = 0; i<7; i++){
         printf("%s\n",Seven[i]);}
+    
+    pokemon = fopen("EasyFile.txt","a");
+    fprintf(pokemon, "\n");
+    for(int i = 0; i<7; i++){
+
+        fprintf(pokemon,"%s\n", Seven[i]);
+    }
+        
+        
     
        
     
@@ -48,6 +58,5 @@ int main(){
 
     }*/
 
-    fclose(pokemon);
     printf("\n");
 }
