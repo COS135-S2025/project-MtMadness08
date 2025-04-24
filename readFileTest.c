@@ -5,14 +5,16 @@
 #include <string.h>
 #include <ctype.h>
 
+#define HINT_SIZE 7
+
 int main(){
     FILE* pokemon = fopen("EasyFile.txt","r");
 
-    char Seven[7][250];
+    char Seven[HINT_SIZE][250];
 
     //Print off the Pokedex Number trimmed
 
-    for (int i = 0; i<7; i++){
+    for (int i = 0; i<HINT_SIZE; i++){
         char buffer[1024];
         if(fgets(buffer,sizeof(buffer),pokemon)!=NULL){
             char *ptr = buffer + strlen(buffer) - 1;
@@ -26,12 +28,11 @@ int main(){
         }
     fclose(pokemon);
 
-    for(int i = 0; i<7; i++){
+    for(int i = 0; i<HINT_SIZE; i++){
         printf("%s\n",Seven[i]);}
     
-    pokemon = fopen("EasyFile.txt","a");
-    fprintf(pokemon, "\n");
-    for(int i = 0; i<7; i++){
+    pokemon = fopen("test.txt","a");
+    for(int i = 0; i<HINT_SIZE; i++){
 
         fprintf(pokemon,"%s\n", Seven[i]);
     }
