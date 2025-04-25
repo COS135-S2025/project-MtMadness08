@@ -27,14 +27,10 @@ int main(){
             strcpy(Seven[i],buffer);
         }
     fclose(pokemon);
+    pokemon = fopen("test.txt","r+");
 
     for(int i = 0; i<HINT_SIZE; i++){
-        printf("%s\n",Seven[i]);}
-    
-    pokemon = fopen("test.txt","a");
-    for(int i = 0; i<HINT_SIZE; i++){
-
-        fprintf(pokemon,"%s\n", Seven[i]);
+        fprintf(pokemon,"");
     }
         
         
@@ -58,6 +54,6 @@ int main(){
        printf("%s\n", ptr);
 
     }*/
-
+    fclose(pokemon);
     printf("\n");
 }
