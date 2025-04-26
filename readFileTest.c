@@ -7,7 +7,7 @@
 
 #define HINT_SIZE 7
 
-int main(){
+void readEasyFile(){
     FILE* pokemon = fopen("EasyFile.txt","r");
 
     char Seven[HINT_SIZE][250];

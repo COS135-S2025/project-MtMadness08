@@ -5,7 +5,7 @@
 #include <string.h>
 #include <ctype.h>
 
-int main(){
+void difficulty(){
 
     //Select Difficulty
     char buffer[20];
