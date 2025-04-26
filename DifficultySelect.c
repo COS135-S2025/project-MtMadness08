@@ -5,6 +5,8 @@
 #include <string.h>
 #include <ctype.h>
 
+#include "readFileTest.c"
+
 void difficulty(){
 
     //Select Difficulty
@@ -18,12 +20,12 @@ void difficulty(){
     // Checks for a valid input
     if(n != 1 && n != 2 && n != 3){
         printf("Invalid Input");
-        return 0;
     }
 
     switch(n){
         case 1:
             printf("Difficulty Selected: Easy\n");
+            readEasyFile();
             break;
         case 2:
             printf("Difficulty Selected: Normal\n");

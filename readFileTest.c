@@ -26,11 +26,8 @@ void readEasyFile(){
             }
             strcpy(Seven[i],buffer);
         }
-    fclose(pokemon);
-    pokemon = fopen("test.txt","r+");
-
-    for(int i = 0; i<HINT_SIZE; i++){
-        fprintf(pokemon,"");
+    for (int i = 0; i<HINT_SIZE; i++){
+        printf("%s\n",Seven[i]);
     }
         
         

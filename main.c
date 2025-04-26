@@ -4,7 +4,9 @@
 #include <string.h>
 #include <ctype.h>
 
+#include "DifficultySelect.c"
+
+
 int main(){
     difficulty();
-    readEasyFile();
 }

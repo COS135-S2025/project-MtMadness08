@@ -1,4 +1,4 @@
-/*File to read the easy questions for the quiz*/
+/*File to read the easy questions for the quiz
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -49,3 +49,4 @@ int main(){
     fclose(pokemon);
     printf("\n");
 }
+*/
