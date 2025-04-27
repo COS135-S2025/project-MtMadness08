@@ -13,7 +13,10 @@ char arr[7][1024]={"1","2","3","4","5","6","Mew"};
 
 int length = strlen(arr[6]);
 
-    while(i!=7){
+//Steps through the guessing
+printf("The Pokedex Number is: %s\n",arr[0]);
+
+while(i!=7){
 
     char buffer[20];
     printf("Print Pokemon Name\n");
