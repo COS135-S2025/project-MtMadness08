@@ -5,7 +5,7 @@
 #include <string.h>
 #include <ctype.h>
 
-#include "readFileTest.c"
+#include "readFiles.c"
 
 void difficulty(){
 
@@ -29,9 +29,11 @@ void difficulty(){
             break;
         case 2:
             printf("Difficulty Selected: Normal\n");
+            readNormalFile();
             break;
         case 3:
             printf("Difficulty Selected: Hard\n");
+            readHardFile();
             break;
     }
 
