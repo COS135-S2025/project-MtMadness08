@@ -16,12 +16,17 @@ int length = strlen(arr[6]);
 //Steps through the guessing
 printf("The Pokedex Number is: %s\n",arr[0]);
 
-while(i!=7){
-
+while(i<=5){
+    int j = 1;
     char buffer[20];
-    printf("Print Pokemon Name\n");
+    printf("Type Hint for Hint.\nType Pokemon Name to guess.\n");
     fgets(buffer,sizeof(buffer),stdin);
-    if(strncmp(arr[6],buffer,length)==0){
+
+    if(strncmp("Hint",buffer,4)==0){
+        printf("%s\n",arr[j]);
+        j++;
+    }
+    else if(strncmp(arr[6],buffer,length)==0){
         printf("That was correct\n");
         i = 7;
     }
