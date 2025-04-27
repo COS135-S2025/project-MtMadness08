@@ -7,10 +7,10 @@
 
 #define HINT_SIZE 7
 
-void readEasyFile(){
+int main(){
     FILE* pokemon = fopen("EasyFile.txt","r");
 
-    char Seven[HINT_SIZE][250];
+    char Seven[HINT_SIZE][1024];
 
     //Print off the Pokedex Number trimmed
 
@@ -29,7 +29,32 @@ void readEasyFile(){
     for (int i = 0; i<HINT_SIZE; i++){
         printf("%s\n",Seven[i]);
     }
-        
+    
+    int i = 0;
+
+int length = strlen(Seven[6]);
+
+//Steps through the guessing
+printf("The Pokedex Number is: %s\n",Seven[0]);
+
+while(i<=5){
+    int j = 1;
+    char buffer[20];
+    printf("Type Hint for Hint.\nType Pokemon Name to guess.\n");
+    fgets(buffer,sizeof(buffer),stdin);
+
+    if(strncmp("Hint",buffer,4)==0){
+        printf("%s\n",Seven[j]);
+        j++;
+    }
+    else if(strncmp(Seven[6],buffer,length)==0){
+        printf("That was correct\n");
+        i = 7;
+    }
+    else{
+        printf("That was incorrect\n");
+        i++;
+    };}
         
     
        
