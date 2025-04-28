@@ -1,7 +1,7 @@
-#0378
-Hint 1: Generation 3
-Hint 2: Ice type
-Hint 3: Has the ability Clear Body
-Hint 4: Does not evolve
-Hint 5: Legendary Pokemon
-Regice
+#571
+Hint 1: Generation 5
+Hint 2: Dark Type
+Hint 3: Has a Hisuian Regional Form
+Hint 4: Final stage of evolution
+Hint 5: Has the Ability Illusion
+Zoroark

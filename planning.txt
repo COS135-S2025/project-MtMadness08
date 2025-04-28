@@ -17,4 +17,4 @@ freeing memory
 reading/writing files *check
 github repository *check
 switch statement *check
-something not taught in class
+something not taught in class *check
