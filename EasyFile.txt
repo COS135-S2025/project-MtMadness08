@@ -5,3 +5,10 @@ Hint 3: Has a Hisuian Regional Form
 Hint 4: Final stage of evolution
 Hint 5: Has the Ability Illusion
 Zoroark
+#0472
+Hint 1: Generation 4
+Hint 2: Psychic type
+Hint 3: Has the ability Levitate
+Hint 4: Does not evolve
+Hint 5: Mythical Pokemon
+Azelf

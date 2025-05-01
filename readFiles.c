@@ -7,15 +7,15 @@
 
 #define HINT_SIZE 7
 
-void readEasyFile(){
+int main(){
     FILE* pokemon = fopen("EasyFile.txt","r");
 
-    char Seven[HINT_SIZE][1024];
+    char buffer[1024];
+    char Seven[HINT_SIZE][250];
 
     //Print off the Pokedex Number trimmed
 
     for (int i = 0; i<HINT_SIZE; i++){
-        char buffer[1024];
         if(fgets(buffer,sizeof(buffer),pokemon)!=NULL){
             char *ptr = buffer + strlen(buffer) - 1;
             //Trim Buffer
