@@ -6,16 +6,16 @@
 #define NUM_LISTS 10
 #define PARTS 7
 
-void readEasyFile(){
+int main(){
 /* Puts all parts of a file into a list*/
 
-    FILE* openFile = fopen("EasyFile.txt","r");
+    FILE* openFile = fopen("test.txt","r");
 
     char buffer[1024];
     char *List[NUM_LISTS][PARTS];
 
     //Puts each line of the file in each list.
-    for(int i = 0; i<1;i++){
+    for(int i = 0; i<10;i++){
         for(int j = 0; j<7;j++){
                 if(fgets(buffer,sizeof(buffer),openFile)!=NULL){
                     char *ptr = buffer + strlen(buffer) - 1;
@@ -30,14 +30,25 @@ void readEasyFile(){
                     strcpy(List[i][j],buffer);
             }
         }
+    fclose(openFile);
 
 ////////////////////////////////////////////////////////////////////////
-    /* Makes a new file with the first set moved down*/
-    
-    
-
-
+    /*Makes a new file with the first set moved down*/
+    FILE* newFile = fopen("Copy.txt","w");
+    for(int i = 1; i<10;i++){
+        for(int j = 0; j<7;j++){
+        fprintf(newFile,"%s\n",List[i][j]);
+        }
     }
-int main(){
-    readEasyFile();
+    for(int i = 0; i<7;i++){
+        fprintf(newFile,"%s\n",List[0][i]);
+    }
+
+    fclose(newFile);
+
+    //Deletes the old text file
+    remove("test.txt");
+    //Renames the text file
+    rename("Copy.txt","test.txt");
+
 }
