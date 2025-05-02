@@ -1,14 +1,140 @@
-#571
-Hint 1: Generation 5
-Hint 2: Dark Type
-Hint 3: Has a Hisuian Regional Form
-Hint 4: Final stage of evolution
-Hint 5: Has the Ability Illusion
-Zoroark
-#0472
-Hint 1: Generation 4
-Hint 2: Psychic type
-Hint 3: Has the ability Levitate
-Hint 4: Does not evolve
-Hint 5: Mythical Pokemon
-Azelf
+#0006
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Charizard
+#0658
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Greninja
+#0053
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Meowth
+#0175
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Togepi
+#0202
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Wobbuffet
+#0110
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Weezing
+#0012
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Butterfree
+#0133
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Eevee
+#0129
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Magikarp
+#0039
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Jigglypuff
+#0250
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Ho-Oh
+#150
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Mewtwo
+#0909
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Fuecoco
+#0134
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Vaporeon
+#0143
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Snorlax
+#004
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Charmander
+#0727
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Incineroar
+#0498
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Tepig
+#0112
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Rhydon
+#0100
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Voltorb

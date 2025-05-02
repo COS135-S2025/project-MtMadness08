@@ -5,11 +5,16 @@
 #include <string.h>
 #include <ctype.h>
 
-#include "readFiles.c"
+#include "readFileEasy.c"
+#include "readFileMedium.c"
+#include "readFileHard.c"
+#include "readFileExtraHard.c"
 
 void difficulty(){
+    int play = 0;
 
     //Select Difficulty
+    while(play != 1){
     char buffer[20];
     printf("Select Difficulty 1-3:\n1. Easy\n2. Normal\n3. Hard\n");
     fgets(buffer,sizeof(buffer),stdin);
@@ -29,12 +34,19 @@ void difficulty(){
             break;
         case 2:
             printf("Difficulty Selected: Normal\n");
-            readNormalFile();
+            //readNormalFile();
             break;
         case 3:
             printf("Difficulty Selected: Hard\n");
-            readHardFile();
+            //readHardFile();
             break;
     }
+    char buffer[20];
+    printf("Play Again? y/n");
+    fgets(buffer,sizeof(buffer),stdin);
+    
+    printf("\n");
+
+}
 
 }

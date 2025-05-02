@@ -1,24 +1,22 @@
-/*File to read the easy questions for the quiz*/
+/*File to read each of the difficulties, and write a new file*/
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
 
-#define NUM_LISTS 10
+#define NUM_LISTS 20
 #define PARTS 7
 
 void readEasyFile(){
-/* Puts all parts of a file into a list*/
-
     FILE* openFile = fopen("EasyFile.txt","r");
 
     char buffer[1024];
     char *List[NUM_LISTS][PARTS];
 
     //Puts each line of the file in each list.
-    for(int i = 0; i<1;i++){
-        for(int j = 0; j<7;j++){
+    for(int i = 0; i<NUM_LISTS;i++){
+        for(int j = 0; j<PARTS;j++){
                 if(fgets(buffer,sizeof(buffer),openFile)!=NULL){
                     char *ptr = buffer + strlen(buffer) - 1;
                     //Trim Buffer
@@ -32,8 +30,29 @@ void readEasyFile(){
                     strcpy(List[i][j],buffer);
             }
         }
-///////////////////////////////////////////////////////////////////
-/*Steps through the questions*/
+    fclose(openFile);
+
+////////////////////////////////////////////////////////////////////////
+    /*Makes a new file with the first set moved down*/
+    FILE* newFile = fopen("Copy.txt","w");
+    for(int i = 1; i<NUM_LISTS;i++){
+        for(int j = 0; j<PARTS;j++){
+        fprintf(newFile,"%s\n",List[i][j]);
+        }
+    }
+    for(int i = 0; i<7;i++){
+        fprintf(newFile,"%s\n",List[0][i]);
+    }
+
+    fclose(newFile);
+
+    //Deletes the old text file
+    remove("EasyFile.txt");
+    //Renames the text file
+    rename("Copy.txt","EasyFile.txt");
+////////////////////////////////////////////////////////////////////////
+
+    /*Steps through the questions*/
 
 int Guesses = 0;
 int Hint = 1;
@@ -72,12 +91,8 @@ while(Guesses<=4){
         Guesses++;};
         }
     }
-fclose(openFile);
 
-}
 
-int main(){
-    readEasyFile();
 
-    
+
 }
