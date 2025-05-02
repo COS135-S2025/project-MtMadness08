@@ -52,5 +52,4 @@ void difficulty(){
             play = 1;
         }
     }
-
 }
