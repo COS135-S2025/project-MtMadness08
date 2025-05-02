@@ -5,7 +5,7 @@
 #include <string.h>
 #include <ctype.h>
 
-#define NUM_LISTS 20
+#define NUM_LISTS 21
 #define PARTS 7
 
 void readEasyFile(){

@@ -1,7 +1,147 @@
-#0089
-Hint 1: Generation 1
-Hint 2: Poison Type
-Hint 3: Has an Alolan Regional Form
-Hint 4: Final Stage in its Evolution
-Hint 5: Its Regional Form is Poison/Dark
-Muk
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Axew
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Panpour
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Garchomp
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Shedinja
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Ponyta
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Starmie
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Munna
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Sawk
+#0781
+Hint 1: Generation 7
+Hint 2: Type: Ghost/Grass
+Hint 3: Does not Evolve
+Hint 4: "Sea Creeper Pokemon"
+Hint 5: Signature Ability: Steelworker
+Dhelmise
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+SandyGhast
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Dragonite
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Hitmonlee
+#0599
+Hint 1: Generation 5
+Hint 2: Type: Steel
+Hint 3: Evolves Twice
+Hint 4: "Gear Pokemon"
+Hint 5: Final evolution has this Pokemon's name in it
+Klink
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Zebstrika
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Aipom
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Unown
+#0479
+Hint 1: Generation 4
+Hint 2: Type: Electric/Ghost
+Hint 3: Has 5 other forms
+Hint 4: Each form changes its Ghost typing
+Hint 5: Appears as objects the player has in later games
+Rotom
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Lapras
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Wooloo
+#0486
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Regigigas
+#0487
+Hint 1: Type: Ghost/Dragon
+Hint 2: Generation 4
+Hint 3: Legendary Pokemon
+Hint 4: Has two forms
+Hint 5: Game Mascot of the third game
+Giratina

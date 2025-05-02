@@ -69,14 +69,14 @@ Hint 4:
 Hint 5:
 Jigglypuff
 #0250
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 2
+Hint 2: Type: Fire/Flying
+Hint 3: Legendary Pokemon
+Hint 4: Name has a Hyphen
+Hint 5: Appears in the opening scene of the Anime
 Ho-Oh
 #150
-Hint 1:
+Hint 1: 
 Hint 2:
 Hint 3:
 Hint 4:
@@ -132,9 +132,15 @@ Hint 4:
 Hint 5:
 Rhydon
 #0100
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Type: Electric
+Hint 2: Pokedex Color: Red
+Hint 3: Evolves Once
+Hint 4: Has an Electric/Grass form
+Hint 5: Looks like a PokeBall
 Voltorb
+#0057
+Hint 1: Type: Water
+Hint 2: Pokedex Color: Yellow
+Hint 3: "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode."
+Hint 4: Evolves Once
+Hint 5: Is a major pokemon in the early Anime

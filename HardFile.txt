@@ -1,7 +1,147 @@
-#0472
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Electivire
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Bruxish
+#0238
+Hint 1: Generation 2
+Hint 2: 100% Female Species
+Hint 3: Type: Ice/Psychic
+Hint 4: Evolves once
+Hint 5: "Kiss Pokemon"
+Smoochum
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Dunsparce
+#0489
 Hint 1: Generation 4
-Hint 2: Psychic type
-Hint 3: Has the ability Levitate
-Hint 4: Does not evolve
-Hint 5: Mythical Pokemon
-Azelf
+Hint 2: Type: Water
+Hint 3: Mythcal Pokemon
+Hint 4: Only obtainable through breeding
+Hint 5: Can only breed with another mythical and Ditto
+Phione
+#0707
+Hint 1: Generation 6
+Hint 2: Type: Steel/Fairy
+Hint 3: Does not Evolve
+Hint 4: Pokedex Shape: Round
+Hint 5: Japanese name: Cleffy
+Klefki
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Burmy
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Heliolisk
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Pheramosa
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Kyurem
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Greedent
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Morgrem
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Quilfish
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Zarude
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Keldeo
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Lumineon
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Tyrogue
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Yungoos
+No Number
+Hint 1: Generations 1-3
+Hint 2: Its cry mimics other pokemon
+Hint 3: Type: Bird/Normal
+Hint 4: Each sprite is unrelated to each other
+Hint 5: Can only be obtained through glitches
+MissingNo
+#0
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Cobalion
+#0494
+Hint 1: Generation 5
+Hint 2: Type: Psychic/Fire
+Hint 3: Mythical Pokemon
+Hint 4: Signature Ability: Victory Star
+Hint 5: Regional Dex number from the first game is #000
+Victini
