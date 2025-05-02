@@ -41,12 +41,16 @@ void difficulty(){
             //readHardFile();
             break;
     }
-    char buffer[20];
-    printf("Play Again? y/n");
-    fgets(buffer,sizeof(buffer),stdin);
-    
-    printf("\n");
-
-}
+        char player[20];
+        printf("Play Again? y/n\n");
+        fgets(player,sizeof(player),stdin);
+        if(strncmp("y",player,1)==0){
+            play=0;
+        }
+        else{
+            printf("Thanks for Playing\n");
+            play = 1;
+        }
+    }
 
 }
