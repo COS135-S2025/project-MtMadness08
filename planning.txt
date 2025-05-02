@@ -11,7 +11,7 @@
 Necessary parts:
 malloc to create a list *check
 makefile (will need eventually)
-using a memory address location of a pointer to assign memory at that location
+using a memory address location of a pointer to assign memory at that location *check
 looping through an array *check
 freeing memory
 reading/writing files *check

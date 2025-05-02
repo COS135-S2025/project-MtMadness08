@@ -1,53 +1,53 @@
-#0
+#0610
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Axew
-#0
+#0515
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Panpour
-#0
+#0445
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Garchomp
-#0
+#0292
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Shedinja
-#0
+#0077
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Ponyta
-#0
+#0121
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Starmie
-#0
+#0517
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Munna
-#0
+#0539
 Hint 1:
 Hint 2:
 Hint 3:
@@ -61,21 +61,21 @@ Hint 3: Does not Evolve
 Hint 4: "Sea Creeper Pokemon"
 Hint 5: Signature Ability: Steelworker
 Dhelmise
-#0
+#0769
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
-SandyGhast
-#0
+Sandygast
+#0149
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Dragonite
-#0
+#0106
 Hint 1:
 Hint 2:
 Hint 3:
@@ -89,21 +89,21 @@ Hint 3: Evolves Twice
 Hint 4: "Gear Pokemon"
 Hint 5: Final evolution has this Pokemon's name in it
 Klink
-#0
+#0523
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Zebstrika
-#0
+#0190
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Aipom
-#0
+#0201
 Hint 1:
 Hint 2:
 Hint 3:
@@ -117,14 +117,14 @@ Hint 3: Has 5 other forms
 Hint 4: Each form changes its Ghost typing
 Hint 5: Appears as objects the player has in later games
 Rotom
-#0
+#0131
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Lapras
-#0
+#0831
 Hint 1:
 Hint 2:
 Hint 3:

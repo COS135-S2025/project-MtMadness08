@@ -1,11 +1,11 @@
-#0
+#0466
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Electivire
-#0
+#0779
 Hint 1:
 Hint 2:
 Hint 3:
@@ -19,7 +19,7 @@ Hint 3: Type: Ice/Psychic
 Hint 4: Evolves once
 Hint 5: "Kiss Pokemon"
 Smoochum
-#0
+#0206
 Hint 1:
 Hint 2:
 Hint 3:
@@ -40,84 +40,84 @@ Hint 3: Does not Evolve
 Hint 4: Pokedex Shape: Round
 Hint 5: Japanese name: Cleffy
 Klefki
-#0
+#0412
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Burmy
-#0
+#0695
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Heliolisk
-#0
+#0795
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Pheramosa
-#0
+#0646
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Kyurem
-#0
+#0820
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Greedent
-#0
+#0860
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Morgrem
-#0
+#0211
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
-Quilfish
-#0
+Qwilfish
+#0893
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Zarude
-#0
+#0647
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Keldeo
-#0
+#0457
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Lumineon
-#0
+#0236
 Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Tyrogue
-#0
+#0734
 Hint 1:
 Hint 2:
 Hint 3:
@@ -131,7 +131,7 @@ Hint 3: Type: Bird/Normal
 Hint 4: Each sprite is unrelated to each other
 Hint 5: Can only be obtained through glitches
 MissingNo
-#0
+#0638
 Hint 1:
 Hint 2:
 Hint 3:
