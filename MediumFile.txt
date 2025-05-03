@@ -1,37 +1,37 @@
 #0610
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 5
+Hint 2: Type: Dragon
+Hint 3: Pokedex Color: Green
+Hint 4: Evolves twice
+Hint 5: 
 Axew
 #0515
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 5
+Hint 2: Type: Water
+Hint 3: Evolves once through a water stone
+Hint 4: Bipedal body, with a tail
+Hint 5: Two pokemon look like this pokemon, but are each a different type
 Panpour
 #0445
-Hint 1:
+Hint 1: 
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Garchomp
 #0292
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 3
+Hint 2: No Gender
+Hint 3: Special Method to evolve to this pokemon
+Hint 4: Signature Ability: Wonder Guard
+Hint 5: Type: Bug/Ghost
 Shedinja
 #0077
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Type: Fire
+Hint 2: Regional Form Type: Psychic
+Hint 3: Galarian Form
+Hint 4: "It is a weak runner immediately after birth. It gradually becomes faster by chasing after its parents."
+Hint 5: Evolves once
 Ponyta
 #0121
 Hint 1:
@@ -41,18 +41,18 @@ Hint 4:
 Hint 5:
 Starmie
 #0517
-Hint 1:
-Hint 2:
-Hint 3:
+Hint 1: Generation 5
+Hint 2: Type: Psychic
+Hint 3: 
 Hint 4:
-Hint 5:
+Hint 5: 
 Munna
 #0539
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 5
+Hint 2: Pokedex Color: Blue
+Hint 3: Type: Fighting
+Hint 4: 100% Male
+Hint 5: Counterpart to Throh
 Sawk
 #0781
 Hint 1: Generation 7
@@ -62,11 +62,11 @@ Hint 4: "Sea Creeper Pokemon"
 Hint 5: Signature Ability: Steelworker
 Dhelmise
 #0769
-Hint 1:
-Hint 2:
+Hint 1: 
+Hint 2: 
 Hint 3:
 Hint 4:
-Hint 5:
+Hint 5: Type: Ghost/Ground
 Sandygast
 #0149
 Hint 1:
@@ -76,8 +76,8 @@ Hint 4:
 Hint 5:
 Dragonite
 #0106
-Hint 1:
-Hint 2:
+Hint 1: Type: Fighting
+Hint 2: Does not Evolve
 Hint 3:
 Hint 4:
 Hint 5:
@@ -90,25 +90,25 @@ Hint 4: "Gear Pokemon"
 Hint 5: Final evolution has this Pokemon's name in it
 Klink
 #0523
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
+Hint 1: Generation 5
+Hint 2: Type: Electric
+Hint 3: Second Stage
+Hint 4: 
 Hint 5:
 Zebstrika
 #0190
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Type: Normal
+Hint 2: "Long Tail Pokemon"
+Hint 3: Evolves Once
+Hint 4: Japanese name: "Eipam"
+Hint 5: Color: Purple
 Aipom
 #0201
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 2
+Hint 2: Type: Psychic
+Hint 3: Pokedex Color: Black
+Hint 4: 26 Forms of this Pokemon
+Hint 5: 2 more forms added in Generation 3
 Unown
 #0479
 Hint 1: Generation 4
@@ -118,25 +118,25 @@ Hint 4: Each form changes its Ghost typing
 Hint 5: Appears as objects the player has in later games
 Rotom
 #0131
-Hint 1:
-Hint 2:
+Hint 1: Type: Water/Ice
+Hint 2: 
 Hint 3:
 Hint 4:
 Hint 5:
 Lapras
 #0831
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Type: Normal
+Hint 2: First Stage
+Hint 3: Evolves Once
+Hint 4: Shiny inverts the colors
+Hint 5: Resembles a real life animal
 Wooloo
 #0486
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 4
+Hint 2: Type: Normal
+Hint 3: Legendary pokemon
+Hint 4: "There is an enduring legend that this pokemon towed continents with ropes."
+Hint 5: Ability: Slow Start
 Regigigas
 #0487
 Hint 1: Type: Ghost/Dragon

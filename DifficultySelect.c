@@ -34,11 +34,11 @@ void difficulty(){
             break;
         case 2:
             printf("Difficulty Selected: Normal\n");
-            //readNormalFile();
+            readMediumFile();
             break;
         case 3:
             printf("Difficulty Selected: Hard\n");
-            //readHardFile();
+            readHardFile();
             break;
     }
         char player[20];

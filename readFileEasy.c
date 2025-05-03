@@ -1,4 +1,4 @@
-/*File to read each of the difficulties, and write a new file*/
+/*File to read the file for easy difficulty, and write a new file*/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -104,6 +104,14 @@ while(Guesses<=4){
         }
         else{printf("That was incorrect\n");
         Guesses++;};
+        }
+    }
+
+    //Frees the array
+
+    for(int i = 0; i<NUM_LISTS; i++){
+        for(int j = 0; j < PARTS; j++ ){
+            free(List[i][j]);
         }
     }
 

@@ -1,9 +1,9 @@
 #0466
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 4
+Hint 2: Type: Electric
+Hint 3: Bipedal with a tail
+Hint 4: "Thunderbolt Pokemon"
+Hint 5: Evolution of a Gen 1 Pokemon
 Electivire
 #0779
 Hint 1:
@@ -20,11 +20,11 @@ Hint 4: Evolves once
 Hint 5: "Kiss Pokemon"
 Smoochum
 #0206
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 2
+Hint 2: Type: Normal
+Hint 3: Pokedex Color: Yellow
+Hint 4: "Land Snake Pokemon"
+Hint 5: Gains an evolution in Generation 9
 Dunsparce
 #0489
 Hint 1: Generation 4
@@ -41,11 +41,11 @@ Hint 4: Pokedex Shape: Round
 Hint 5: Japanese name: Cleffy
 Klefki
 #0412
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 4
+Hint 2: Type: Bug
+Hint 3: Two different evolutions based on male or female
+Hint 4: Has three forms
+Hint 5: The forms do not affect any gameplay
 Burmy
 #0695
 Hint 1:
@@ -55,14 +55,14 @@ Hint 4:
 Hint 5:
 Heliolisk
 #0795
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 7
+Hint 2: Type: Bug/Fighting
+Hint 3: Ultra Beast
+Hint 4: Codename UB02-Beauty
+Hint 5: "Lissome Pokemon"
 Pheramosa
 #0646
-Hint 1:
+Hint 1: 
 Hint 2:
 Hint 3:
 Hint 4:
@@ -76,15 +76,15 @@ Hint 4:
 Hint 5:
 Greedent
 #0860
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 8
+Hint 2: Type: Dark/Fairy
+Hint 3: Middle stage of Evolution
+Hint 4: "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow."
+Hint 5: "Devious Pokemon"
 Morgrem
 #0211
-Hint 1:
-Hint 2:
+Hint 1: Generation 2
+Hint 2: 
 Hint 3:
 Hint 4:
 Hint 5:
@@ -97,29 +97,29 @@ Hint 4:
 Hint 5:
 Zarude
 #0647
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 5
+Hint 2: Type: Water/Fighting
+Hint 3: Mythical Pokemon
+Hint 4: Ability: Justified
+Hint 5: Two forms
 Keldeo
 #0457
-Hint 1:
+Hint 1: 
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Lumineon
 #0236
-Hint 1:
+Hint 1: 
 Hint 2:
 Hint 3:
 Hint 4:
 Hint 5:
 Tyrogue
 #0734
-Hint 1:
-Hint 2:
+Hint 1: Type: Normal
+Hint 2: 
 Hint 3:
 Hint 4:
 Hint 5:
@@ -132,7 +132,7 @@ Hint 4: Each sprite is unrelated to each other
 Hint 5: Can only be obtained through glitches
 MissingNo
 #0638
-Hint 1:
+Hint 1: 
 Hint 2:
 Hint 3:
 Hint 4:

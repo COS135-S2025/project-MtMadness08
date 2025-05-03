@@ -1,12 +1,12 @@
 #0202
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Type: Psychic
+Hint 2: "In order to coneal its black tail, it lives in a dark cave and only moves about at night."
+Hint 3: Final evolution of a pokemon
+Hint 4: Color: Blue
+Hint 5: James has it in the Anime
 Wobbuffet
 #0110
-Hint 1:
+Hint 1: 
 Hint 2:
 Hint 3:
 Hint 4:
@@ -27,9 +27,9 @@ Hint 4:
 Hint 5:
 Eevee
 #0129
-Hint 1:
-Hint 2:
-Hint 3:
+Hint 1: Type: Water
+Hint 2: Evolves once
+Hint 3: 
 Hint 4:
 Hint 5:
 Magikarp
@@ -76,11 +76,11 @@ Hint 4:
 Hint 5:
 Snorlax
 #004
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Type: Fire
+Hint 2: Evolves Twice
+Hint 3: Starter Pokemon
+Hint 4: "Lizard Pokemon"
+Hint 5: Final Evolution is Charizard
 Charmander
 #0727
 Hint 1:
