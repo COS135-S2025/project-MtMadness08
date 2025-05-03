@@ -1,24 +1,3 @@
-#0658
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
-Greninja
-#0053
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
-Meowth
-#0175
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
-Togepi
 #0202
 Hint 1:
 Hint 2:
@@ -137,7 +116,7 @@ Hint 2: Pokedex Color: Yellow
 Hint 3: "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode."
 Hint 4: Evolves Once
 Hint 5: Is a major pokemon in the early Anime
-Hint 5: Is a major pokemon in the early Anime
+Psyduck
 #0006
 Hint 1:
 Hint 2:
@@ -145,3 +124,24 @@ Hint 3:
 Hint 4:
 Hint 5:
 Charizard
+#0658
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Greninja
+#0053
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Meowth
+#0175
+Hint 1:
+Hint 2:
+Hint 3:
+Hint 4:
+Hint 5:
+Togepi
