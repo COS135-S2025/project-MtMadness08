@@ -3,7 +3,7 @@ Hint 1: Generation 5
 Hint 2: Type: Dragon
 Hint 3: Pokedex Color: Green
 Hint 4: Evolves twice
-Hint 5: 
+Hint 5: Used by the rival
 Axew
 #0515
 Hint 1: Generation 5
