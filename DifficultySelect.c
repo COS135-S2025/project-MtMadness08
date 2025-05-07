@@ -8,24 +8,31 @@
 #include "readFileEasy.c"
 #include "readFileMedium.c"
 #include "readFileHard.c"
-#include "readFileExtraHard.c"
 
 void difficulty(){
     int play = 0;
+    int n = 0;
+    printf("Type every word with a capital letter\nAll pokemon must be spelled correctly\n\n");
 
     //Select Difficulty
     while(play != 1){
     char buffer[20];
-    printf("Select Difficulty 1-3:\n1. Easy\n2. Normal\n3. Hard\n");
+    printf("Select Difficulty:\n* Easy\n* Normal\n* Hard\n");
     fgets(buffer,sizeof(buffer),stdin);
     printf("\n");
+    if(strncmp("Easy",buffer,4)==0){
+        n=1;
+    }
+    else if(strncmp("Normal",buffer,4)==0){
+        n=2;
+    }
+    else if(strncmp("Hard",buffer,4)==0){
+        n=3;
+    }
+    else{printf("Invalid Input\n");}
     
     //Converts the buffer to an int to use the switch
-    int n = atoi(buffer);
     // Checks for a valid input
-    if(n != 1 && n != 2 && n != 3){
-        printf("Invalid Input");
-    }
 
     switch(n){
         case 1:

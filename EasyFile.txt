@@ -1,12 +1,5 @@
-#0202
-Hint 1: Type: Psychic
-Hint 2: "In order to coneal its black tail, it lives in a dark cave and only moves about at night."
-Hint 3: Final evolution of a pokemon
-Hint 4: Color: Blue
-Hint 5: James has it in the Anime
-Wobbuffet
 #0110
-Hint 1: 
+Hint 1:
 Hint 2:
 Hint 3:
 Hint 4:
@@ -29,7 +22,7 @@ Eevee
 #0129
 Hint 1: Type: Water
 Hint 2: Evolves once
-Hint 3: 
+Hint 3:
 Hint 4:
 Hint 5:
 Magikarp
@@ -145,3 +138,10 @@ Hint 3:
 Hint 4:
 Hint 5:
 Togepi
+#0202
+Hint 1: Type: Psychic
+Hint 2: "In order to coneal its black tail, it lives in a dark cave and only moves about at night."
+Hint 3: Final evolution of a pokemon
+Hint 4: Color: Blue
+Hint 5: James has it in the Anime
+Wobbuffet
