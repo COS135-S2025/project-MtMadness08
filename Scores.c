@@ -2,21 +2,14 @@
 
 #include "Scores.h"
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
-
-#define MAX_SIZE
-
-Player *createPlayer(char *player, int score)
+Player* createPlayer(char *player, int score)
 {
 
     Player *n = malloc(sizeof(Player));
+    strcpy(n->score, score);
 
-    n->player = player;
-    n->score = 0;
 }
+
 
 void freePlayer(Player *aPlayer)
 {
@@ -25,10 +18,6 @@ void freePlayer(Player *aPlayer)
 
 }
 
-void addPlayer(Player** List,Player* aPlayer,int *max_size, int* spaces)
-{
-    if(*spaces==*max_size){
-        *max_size=*max_size*2;
-    }
-
+void printPlayer(Player* aPlayer){
+    printf("%s:%d\n",aPlayer->player,aPlayer->score);
 }

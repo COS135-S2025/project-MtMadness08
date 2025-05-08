@@ -1,6 +1,6 @@
 
 Start: DifficultySelect.o readFileEasy.o readFileMedium.o readFileHard.o
-	gcc DifficultySelect.o readFileEasy.o readFileMedium.o readFileHard.o -o Start
+	gcc DifficultySelect.o readFileEasy.o readFileMedium.o readFileHard.o Scores.o ScoresList.o -o Start
 
 DifficultySelect.o: DifficultySelect.c readFileEasy.h readFileMedium.h readFileHard.h
 	gcc DifficultySelect.c -c -o DifficultySelect.o
@@ -10,7 +10,10 @@ readFileMedium.o: readFileMedium.c readFileMedium.h
 	gcc readFileMedium.c -c -o readFileMedium.o
 readFileHard.o: readFileHard.c readFileHard.h
 	gcc readFileHard.c -c -o readFileHard.o
-
+ScoresList.o: ScoresList.c ScoresList.h
+	gcc ScoresList.c -c -o ScoresList.o
+Scores.o: Scores.c Scores.h 
+	gcc Scores.c -c -o Scores.o
 
 
 clean:

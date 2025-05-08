@@ -8,8 +8,10 @@
 #include <string.h>
 #include <ctype.h>
 
+#define MAX_NAME 1024
+
 typedef struct Player{
-    char *player;
+    char player[MAX_NAME];
     int score;
 } Player;
 
@@ -17,7 +19,7 @@ Player* createPlayer(char *player, int score);
 
 void freePlayer(Player* aPlayer);
 
-void addPlayer(Player** List,Player* aPlayer,int *max_size,int* spaces);
+void printPlayer(Player* aPlayer);
 
 void Players();
 
