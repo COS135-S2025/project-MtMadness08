@@ -1,5 +1,5 @@
 
-Start: DifficultySelect.o readFileEasy.o readFileMedium.o readFileHard.o
+Start: DifficultySelect.o readFileEasy.o readFileMedium.o readFileHard.o Scores.o ScoresList.o
 	gcc DifficultySelect.o readFileEasy.o readFileMedium.o readFileHard.o Scores.o ScoresList.o -o Start
 
 DifficultySelect.o: DifficultySelect.c readFileEasy.h readFileMedium.h readFileHard.h
