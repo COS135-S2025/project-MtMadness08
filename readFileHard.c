@@ -1,4 +1,6 @@
-/*File to read the file for easy difficulty, and write a new file*/
+/*File to read the file for hard difficulty, and write a new file*/
+
+#include "readFileHard.h"
 
 #include <stdio.h>
 #include <stdlib.h>

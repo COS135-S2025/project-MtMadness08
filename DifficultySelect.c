@@ -1,15 +1,15 @@
-/*Select the difficulty*/
+/*Selects the difficulty*/
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
 
-#include "readFileEasy.c"
-#include "readFileMedium.c"
-#include "readFileHard.c"
+#include "readFileEasy.h"
+#include "readFileMedium.h"
+#include "readFileHard.h"
 
-void difficulty(){
+int main(){
     int play = 0;
     int n = 0;
     printf("Type every word with a capital letter\nAll pokemon must be spelled correctly\n\n");

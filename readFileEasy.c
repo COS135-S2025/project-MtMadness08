@@ -1,5 +1,7 @@
 /*File to read the file for easy difficulty, and write a new file*/
 
+#include "readFileEasy.h"
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

@@ -1,0 +1,21 @@
+
+Start: DifficultySelect.o readFileEasy.o readFileMedium.o readFileHard.o
+	gcc DifficultySelect.o readFileEasy.o readFileMedium.o readFileHard.o -o Start
+
+DifficultySelect.o: DifficultySelect.c readFileEasy.h readFileMedium.h readFileHard.h
+	gcc DifficultySelect.c -c -o DifficultySelect.o
+readFileEasy.o: readFileEasy.c readFileEasy.h
+	gcc readFileEasy.c -c -o readFileEasy.o
+readFileMedium.o: readFileMedium.c readFileMedium.h
+	gcc readFileMedium.c -c -o readFileMedium.o
+readFileHard.o: readFileHard.c readFileHard.h
+	gcc readFileHard.c -c -o readFileHard.o
+
+
+
+clean:
+	rm Start
+	rm DifficultySelect.o
+	rm readFileEasy.o
+	rm readFileHard.o
+	rm readFileMedium.o
