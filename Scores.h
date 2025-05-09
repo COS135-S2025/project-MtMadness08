@@ -1,4 +1,4 @@
-// 
+// Creates all the functions to make a new player
 
 #ifndef SCORES_H
 #define SCORES_H
@@ -12,15 +12,12 @@
 
 typedef struct Player{
     char player[MAX_NAME];
-    int score;
 } Player;
 
-Player* createPlayer(char *player, int score);
+Player* createPlayer(char *player);
 
 void freePlayer(Player* aPlayer);
 
 void printPlayer(Player* aPlayer);
-
-void Players();
 
 #endif

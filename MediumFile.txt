@@ -1,16 +1,9 @@
-#0515
-Hint 1: Generation 5
-Hint 2: Type: Water
-Hint 3: Evolves once through a water stone
-Hint 4: Bipedal body, with a tail
-Hint 5: Two pokemon look like this pokemon, but are each a different type
-Panpour
 #0445
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 4
+Hint 2: Type: Dragon/Ground
+Hint 3: Has a Mega Evolution
+Hint 4: Pseudo-Legendary
+Hint 5: Ace pokemon of the champion
 Garchomp
 #0292
 Hint 1: Generation 3
@@ -27,18 +20,18 @@ Hint 4: "It is a weak runner immediately after birth. It gradually becomes faste
 Hint 5: Evolves once
 Ponyta
 #0121
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Type: Water/Psychic
+Hint 2: Generation 1
+Hint 3: Misty has one in her gym
+Hint 4: Can only evolve with a water stone
+Hint 5: Second Stage
 Starmie
 #0517
 Hint 1: Generation 5
 Hint 2: Type: Psychic
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 3: Evolves once
+Hint 4: Evolves with a moon stone
+Hint 5: "Dream Eater Pokemon"
 Munna
 #0539
 Hint 1: Generation 5
@@ -55,25 +48,25 @@ Hint 4: "Sea Creeper Pokemon"
 Hint 5: Signature Ability: Steelworker
 Dhelmise
 #0769
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5: Type: Ghost/Ground
+Hint 1: Generation 7
+Hint 2: Type: Ghost/Ground
+Hint 3: "Sand Heap Pokemon"
+Hint 4: Evolves once
+Hint 5: Japanese Name: Sunaba
 Sandygast
 #0149
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 1
+Hint 2: Third Stage
+Hint 3: Original Pseudo-Legendary
+Hint 4: Has a Mega Evolution
+Hint 5: Type: Dragon/Flying
 Dragonite
 #0106
 Hint 1: Type: Fighting
-Hint 2: Does not Evolve
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 2: Second stage
+Hint 3: Generation 1
+Hint 4: First stage added in Generation 2
+Hint 5: Name is based on Bruce Lee
 Hitmonlee
 #0599
 Hint 1: Generation 5
@@ -112,10 +105,10 @@ Hint 5: Appears as objects the player has in later games
 Rotom
 #0131
 Hint 1: Type: Water/Ice
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 2: Generation 1
+Hint 3: Has a Gigantamax Form
+Hint 4: Does not Evolve
+Hint 5: Japanese Name: Laplace
 Lapras
 #0831
 Hint 1: Type: Normal
@@ -145,3 +138,10 @@ Hint 3: Pokedex Color: Green
 Hint 4: Evolves twice
 Hint 5: Used by the rival
 Axew
+#0515
+Hint 1: Generation 5
+Hint 2: Type: Water
+Hint 3: Evolves once through a water stone
+Hint 4: Bipedal body, with a tail
+Hint 5: Two pokemon look like this pokemon, but are each a different type
+Panpour

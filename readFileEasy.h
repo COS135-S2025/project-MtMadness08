@@ -8,5 +8,4 @@
 
 void readEasyFile();
 
-
 #endif

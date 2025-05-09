@@ -1,4 +1,4 @@
-/*File to read the file for easy difficulty, and write a new file*/
+/*File to read the file for Medium difficulty, and write a new file*/
 
 #include "readFileMedium.h"
 
@@ -14,12 +14,16 @@ void readMediumFile()
 {
 
     // Opens the file that will be used to play the difficulty
+    // This always takes in the Medium file, and always in read mode
     FILE *openFile = fopen("MediumFile.txt", "r");
-    // Sets the buffer for taking text inputs, and an array for the document itself
+    // Sets the buffer for taking text inputs, and an array 
+    // for the document itself
     char buffer[1024];
     char *List[NUM_LISTS][PARTS];
 
     // Puts each line of the file into the array
+    // It sets each section of the array, and inputs 7 items
+    // From the Medium file. 
     for (int i = 0; i < NUM_LISTS; i++)
     {
         for (int j = 0; j < PARTS; j++)
@@ -35,9 +39,10 @@ void readMediumFile()
                 while (isspace(*ptr))
                     ptr++;
             }
-            // Puts each buffer into the list
+            // Puts each part of the file into the list
+            // 
             List[i][j] = malloc(sizeof(buffer) + 2);
-            // List is malloced
+            // List is malloced to use only what is neaded
             strcpy(List[i][j], buffer);
         }
     }
@@ -47,9 +52,11 @@ void readMediumFile()
     ////////////////////////////////////////////////////////////////////////
 
     // Makes a new file
+    // This file is to be a copy of the original Medium file
     FILE *newFile = fopen("Copy.txt", "w");
 
-    // Prints off each line from the list into the file besides the first 7
+    // Prints off each line from the list into the file 
+    // The first seven lines get pushed to the back
     for (int i = 1; i < NUM_LISTS; i++)
     {
         for (int j = 0; j < PARTS; j++)
@@ -57,7 +64,6 @@ void readMediumFile()
             fprintf(newFile, "%s\n", List[i][j]);
         }
     }
-    // Prints off the first set last to not repeat questions
     for (int i = 0; i < 7; i++)
     {
         fprintf(newFile, "%s\n", List[0][i]);
@@ -65,35 +71,41 @@ void readMediumFile()
 
     fclose(newFile);
 
-    // Deletes the old text file
+    // Deletes the old Medium file
     remove("MediumFile.txt");
 
-    // Renames the text file
+    // Renames the copy to the Medium file
     rename("Copy.txt", "MediumFile.txt");
 
     ////////////////////////////////////////////////////////////////////////
 
     // Steps through the questions
 
-    // Sets integers for your guess amount, hint number, and the length of the answer
+    // Sets integers for your guess amount, 
+    // hint number, and the length of the answer
 
     int Guesses = 0;
     int Hint = 1;
     int Length = strlen(List[0][6]);
 
-    // Prints off the first hint, everyone gets this
-    printf("The Pokedex Number is: %s\n", List[0][0]);
+    // Prints off the first hint, Which is the first string
+    // of the original Medium file
+    printf("The Pokedex Number is: %s\n\n", List[0][0]);
 
-    // Steps through the guessing
+    // Steps through the guessing counts down as you answer
+    // incorrectly
     while (Guesses <= 4)
     {
         int Remaining = 5 - Guesses;
+
+        // Takes an input
         char buffer[20];
         printf("%d Guesses Remain\nType Hint for Hint.\nType Pokemon Name to guess.\n", Remaining);
         fgets(buffer, sizeof(buffer), stdin);
 
-        // If player asks for a hint it prints a hint if it can
-        if (strncmp("Hint", buffer, 4) == 0)
+        // If player asks for a hint it prints a hint if 
+        // there are remaining hints
+        if (strncmp("Hint", buffer, 4) == 0 || strncmp("hint", buffer, 4) == 0 || strncmp("HINT", buffer, 4) == 0)
         {
             if (Hint > 5)
             {
@@ -101,11 +113,11 @@ void readMediumFile()
             }
             else
             {
-                printf("%s\n", List[0][Hint]);
+                printf("%s\n\n", List[0][Hint]);
                 Hint++;
             }
         }
-        // If player does not type 'Hint' it checks the guess
+        // If player does not type 'Hint' it checks the guess input
         else if (strncmp(List[0][6], buffer, Length) == 0)
         {
             printf("That was correct\n");
@@ -118,7 +130,7 @@ void readMediumFile()
             // Only prints off once the player has lost
             if (Guesses >= 4)
             {
-                printf("That Was Incorrect.\nThe Correct Answer Was %s", List[0][6]);
+                printf("That Was Incorrect.\nThe Correct Answer Was %s\n", List[0][6]);
                 Guesses++;
             }
             else
@@ -129,7 +141,7 @@ void readMediumFile()
         }
     }
 
-    // Frees the array
+    // Frees the array of the original list.
 
     for (int i = 0; i < NUM_LISTS; i++)
     {

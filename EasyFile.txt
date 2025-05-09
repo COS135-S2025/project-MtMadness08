@@ -1,72 +1,30 @@
-#0110
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
-Weezing
-#0012
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
-Butterfree
-#0133
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
-Eevee
-#0129
-Hint 1: Type: Water
-Hint 2: Evolves once
-Hint 3:
-Hint 4:
-Hint 5:
-Magikarp
-#0039
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
-Jigglypuff
-#0250
-Hint 1: Generation 2
-Hint 2: Type: Fire/Flying
-Hint 3: Legendary Pokemon
-Hint 4: Name has a Hyphen
-Hint 5: Appears in the opening scene of the Anime
-Ho-Oh
 #150
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Legendary Pokemon
+Hint 2: Generation 1
+Hint 3: Type: Psychic
+Hint 4: Does not evolve
+Hint 5: Has Two Mega Forms
 Mewtwo
 #0909
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Starter Pokemon
+Hint 2: Generation 9
+Hint 3: Type: Fire
+Hint 4: Evolves Twice
+Hint 5: Based on a Crocodile
 Fuecoco
 #0134
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Type: Water
+Hint 2: One of many evolutions from one pokemon
+Hint 3: Generation 1
+Hint 4: "Bubble Jet Pokemon"
+Hint 5: Evolves with a water stone
 Vaporeon
 #0143
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 1
+Hint 2: Type: Normal
+Hint 3: Gains a Pre-Evolution in Generation 4
+Hint 4: Often blocks the way
+Hint 5: Has a side game based on it
 Snorlax
 #004
 Hint 1: Type: Fire
@@ -76,25 +34,25 @@ Hint 4: "Lizard Pokemon"
 Hint 5: Final Evolution is Charizard
 Charmander
 #0727
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Type: Fire/Dark
+Hint 2: Generation 7
+Hint 3: Starter Pokemon
+Hint 4: Appears in Smash Bros. Ultimate
+Hint 5: Final Evolution of this line
 Incineroar
 #0498
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 5
+Hint 2: Type: Fire
+Hint 3: Starter Pokemon
+Hint 4: "Fire Pig Pokemon"
+Hint 5: Evolves twice
 Tepig
 #0112
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 1
+Hint 2: Type: Ground/Rock
+Hint 3: The first pokemon designed
+Hint 4: Is the middle stage
+Hint 5: Gains its third stage in Generation 4
 Rhydon
 #0100
 Hint 1: Type: Electric
@@ -111,32 +69,32 @@ Hint 4: Evolves Once
 Hint 5: Is a major pokemon in the early Anime
 Psyduck
 #0006
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Type: Fire/Flying
+Hint 2: Generation 1
+Hint 3: Starter Pokemon
+Hint 4: Final Evolution
+Hint 5: Has 2 Mega Evolutions
 Charizard
 #0658
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 6
+Hint 2: Type: Water/Dark
+Hint 3: Ash has one in the Anime
+Hint 4: Gains a special form (Not mega)
+Hint 5: Starter pokemon
 Greninja
 #0053
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 1
+Hint 2: Type: Normal
+Hint 3: Considered a counterpart to Pikachu
+Hint 4: Villain in the Anime
+Hint 5: Has an Alolan Form
 Meowth
 #0175
-Hint 1:
-Hint 2:
-Hint 3:
-Hint 4:
-Hint 5:
+Hint 1: Generation 2
+Hint 2: Type: Normal in Gen 6 became Fairy
+Hint 3: Baby pokemon
+Hint 4: Gifted by Professor Elm
+Hint 5: Has two evolutions
 Togepi
 #0202
 Hint 1: Type: Psychic
@@ -145,3 +103,45 @@ Hint 3: Final evolution of a pokemon
 Hint 4: Color: Blue
 Hint 5: James has it in the Anime
 Wobbuffet
+#0110
+Hint 1: Generation 1
+Hint 2: Type: Poison
+Hint 3: Has a Galarian Form
+Hint 4: First stage does not have a Galarian Form
+Hint 5: James owns one in the Anime
+Weezing
+#0012
+Hint 1: Generation 1
+Hint 2: Type: Bug/Flying
+Hint 3: Ash released one in the Anime
+Hint 4: Third stage of evolution
+Hint 5: Has a Gigantamax Form
+Butterfree
+#0133
+Hint 1: Type: Normal
+Hint 2: Genreation 1
+Hint 3: Evolves into 8 other pokemon
+Hint 4: Is a starter pokemon in a Generation 7 Remake
+Hint 5: Evolutions require stones
+Eevee
+#0129
+Hint 1: Type: Water
+Hint 2: Evolves once
+Hint 3: Generation 1
+Hint 4: Is extremely weak compared to its evolution
+Hint 5: Iconic for the move Splash
+Magikarp
+#0039
+Hint 1: Generation 1
+Hint 2: Type: Normal/Fairy
+Hint 3: Evolves once
+Hint 4: Has a Baby pre-evolution
+Hint 5: Appers in Super Smash Bros
+Jigglypuff
+#0250
+Hint 1: Generation 2
+Hint 2: Type: Fire/Flying
+Hint 3: Legendary Pokemon
+Hint 4: Name has a Hyphen
+Hint 5: Appears in the opening scene of the Anime
+Ho-Oh

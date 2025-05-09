@@ -1,23 +1,26 @@
-//
+// Creates a new player struct to count each new player
 
 #include "Scores.h"
 
-Player* createPlayer(char *player, int score)
+// Creates the player
+
+Player *createPlayer(char *player)
 {
 
     Player *n = malloc(sizeof(Player));
-    strcpy(n->score, score);
-
+    strcpy(n->player, player);
 }
 
+// Frees the player
 
 void freePlayer(Player *aPlayer)
 {
     free(aPlayer->player);
     free(aPlayer);
-
 }
 
-void printPlayer(Player* aPlayer){
-    printf("%s:%d\n",aPlayer->player,aPlayer->score);
+// prints the player
+void printPlayer(Player *aPlayer)
+{
+    printf("%s\n", aPlayer->player);
 }

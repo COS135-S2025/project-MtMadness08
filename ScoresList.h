@@ -1,4 +1,4 @@
-// 
+// Creates all the functions to make a new list
 
 #ifndef SCORESLIST_H
 #define SCORESLIST_H
@@ -12,17 +12,18 @@
 
 #define MAX_SPACES 2
 
-typedef struct Scores{
-    struct Player** players;
+typedef struct Scores
+{
+    struct Player **players;
     int max_spaces;
     int num_spaces;
+
 } Scores;
 
-Scores* createScores();
+Scores *createScores();
 
-void freePlayer(Scores* aScore);
+void freeScores(Scores *aScore);
 
-void addPlayer(Player* aPlayer, Scores* aScores);
-
+void addPlayer(Player *aPlayer, Scores *aScores);
 
 #endif
