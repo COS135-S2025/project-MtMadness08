@@ -1,10 +1,3 @@
-#150
-Hint 1: Legendary Pokemon
-Hint 2: Generation 1
-Hint 3: Type: Psychic
-Hint 4: Does not evolve
-Hint 5: Has Two Mega Forms
-Mewtwo
 #0909
 Hint 1: Starter Pokemon
 Hint 2: Generation 9
@@ -145,3 +138,10 @@ Hint 3: Legendary Pokemon
 Hint 4: Name has a Hyphen
 Hint 5: Appears in the opening scene of the Anime
 Ho-Oh
+#150
+Hint 1: Legendary Pokemon
+Hint 2: Generation 1
+Hint 3: Type: Psychic
+Hint 4: Does not evolve
+Hint 5: Has Two Mega Forms
+Mewtwo

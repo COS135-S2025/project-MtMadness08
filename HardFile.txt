@@ -1,10 +1,3 @@
-#0206
-Hint 1: Generation 2
-Hint 2: Type: Normal
-Hint 3: Pokedex Color: Yellow
-Hint 4: "Land Snake Pokemon"
-Hint 5: Gains an evolution in Generation 9
-Dunsparce
 #0489
 Hint 1: Generation 4
 Hint 2: Type: Water
@@ -72,7 +65,7 @@ Qwilfish
 Hint 1: Generation 8
 Hint 2: Mythical Pokemon
 Hint 3: Got an anime movie
-Hint 4: Has a second form 
+Hint 4: Has a second form
 Hint 5: Type: Dark/Grass
 Zarude
 #0647
@@ -145,3 +138,10 @@ Hint 3: Type: Ice/Psychic
 Hint 4: Evolves once
 Hint 5: "Kiss Pokemon"
 Smoochum
+#0206
+Hint 1: Generation 2
+Hint 2: Type: Normal
+Hint 3: Pokedex Color: Yellow
+Hint 4: "Land Snake Pokemon"
+Hint 5: Gains an evolution in Generation 9
+Dunsparce
